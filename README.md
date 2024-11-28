@@ -14,13 +14,19 @@ Objective:
   The object of the game is to have the majority of discs facing up on the board showing one's own colour at the end of the game.
   
 Game Rules:
+
   1.Black always moves first.
+  
   2.If on your turn you cannot outflank and flip at least one opposing disc, your turn is forfeited and your opponent moves
   again. However, if a move is available to you, you may not forfeit your turn. 
+  
   3.Players may not skip over their own colour disc(s) to outflank an opposing disc.
   4.Disc(s) may only be outflanked as a direct result of a move and must fall in the direct line of the disc placed down.
+  
   5.All discs outflanked in any one move must be flipped, even if it is to the player's advantage not to flip them at all.
+  
   6.Once a disc is placed on a square, it can never be moved to another square later in the game.
+  
   7.When it is no longer possible for either player to move, the game is over. Discs are counted and the player with the majority of their colour showing is the winner.
 
   Note: It is possible for a game to end before all 64 squares are filled.
