@@ -4,14 +4,14 @@ A mini game in python.
 The gui file plays with some basic custom graphics.
 
 Description:
-  Each player takes 32 discs and chooses one colour to use throughout the game. Black places two black discs and White places two white discs.
+  Each player chooses one colour to use throughout the game. Black places two black discs and White places two white discs.
 
   A move consists of "outflanking" your opponent's disc(s), then flipping the outflanked disc(s)to your colour. 
   To outflank means to place a disc on the board so that your opponent's row (or rows) of disc(s) is bordered at each
   end by a disc of your colour. (A "row" may be made up of one or more discs).
 
 Objective:
-  The object of the game is to have the majority of discs facing up on the board showing one's own colour at the end of the game.
+  The objective of the game is to have the majority of discs facing up on the board showing one's own colour at the end of the game.
   
 Game Rules:
 
