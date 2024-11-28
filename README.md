@@ -12,6 +12,7 @@ Description:
   end by a disc of your colour. (A "row" may be made up of one or more discs).
 
 Objective:
+
   The objective of the game is to have the majority of discs facing up on the board showing one's own colour at the end of the game.
   
 Game Rules:
